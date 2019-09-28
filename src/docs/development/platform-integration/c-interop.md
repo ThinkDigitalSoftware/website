@@ -113,7 +113,7 @@ int32_t native_add(int32_t x, int32_t y) {
 EOF
 ```
 
-The podspec fle (`ios/native_add.podspec`) automatically
+The podspec file (`ios/native_add.podspec`) automatically
 includes all C/C++ files in `ios/Classes`, and they are
 compiled within the Xcode build system.
 
